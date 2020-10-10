@@ -1,0 +1,16 @@
+{
+  "name": "patty_data_mod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sherief aboelaze",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "export-csv": "^1.0.1",
+    "export-to-csv": "^0.2.1"
+  }
+}
